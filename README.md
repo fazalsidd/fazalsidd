@@ -1,11 +1,11 @@
 [![MasterHead](https://camo.githubusercontent.com/0177efce0facdd611719dbe1e94af2a1ddbd2ac0e78304f97608a6a3b25c765a/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f67697068792d372e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Fazal Ahmad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **react, firebase , java**
+- 💬 Ask me about **react, firebase , java , SpringBoot**
 
 - 📫 How to reach me **fazalahmad255@gmail.com**
 
